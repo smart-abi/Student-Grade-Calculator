@@ -38,10 +38,10 @@ Input → Validation → Processing → Output
 ## 📷 Screenshots
 
 ### ✅ Valid Input
-![Valid](screenshots/output1.png)
+![Valid](output2.png.png)
 
 ### ❌ Invalid Input
-![Invalid](screenshots/output2.png)
+![Invalid](output2.png.png)
 
 ## 🧪 Testing Evidence
 See test_cases.txt
