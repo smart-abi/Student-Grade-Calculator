@@ -36,7 +36,12 @@ Architecture:
 Input → Validation → Processing → Output
 
 ## 📷 Screenshots
-(Add images from screenshots folder)
+
+### ✅ Valid Input
+![Valid](screenshots/output1.png)
+
+### ❌ Invalid Input
+![Invalid](screenshots/output2.png)
 
 ## 🧪 Testing Evidence
 See test_cases.txt
